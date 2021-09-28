@@ -1,5 +1,5 @@
 
-# :computer::handshake::walking: Human-Computer Interaction Project - Group ASN 
+# Human-Computer Interaction Project - Group ASN 
 This website contains updates on Group ASN's HCI project centered around personal budgeting and expense tracking. It will receive an update for every assignment, summarizing our key findings and progress points.
 
 ### Group members:
@@ -12,7 +12,7 @@ Most recent update will be at the top.
 
 ---
 
-## :bulb: Update № 1 (09/28/2021): Initial planning and first interviews
+## Update № 1 (09/28/2021): Initial planning and first interviews
 
 ### Domain of interest & goals:
 Our area of choice is **budgeting and expense tracking**. We are paying special attention to the different methods users have to track their spending and set their saving goals. We want to understand what kind of expense tracking or budgeting solution fits **most** users, and why. In whatever solution we build, we want to achieve a balance that can be welcoming to most people, but that may also appeal to users with extraordinary needs. 
