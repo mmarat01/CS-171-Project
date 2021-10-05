@@ -1,5 +1,5 @@
 
-# Human-Computer Interaction Project - Group ASN 
+# Human-Computer Interaction Project - Group Citrus 
 This website contains updates on Group ASN's HCI project centered around personal budgeting and expense tracking. It will receive an update for every assignment, summarizing our key findings and progress points.
 
 ### Group members:
